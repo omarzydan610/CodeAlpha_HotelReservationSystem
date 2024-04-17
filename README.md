@@ -4,7 +4,7 @@
 
  Task is to build a hotel reservation system where users can view available rooms, make reservations, and view booking details.
 
- Including features like room categorization and payment processing.
+ I included features like room categorization and payment processing.
 
  I handeled all errors of wrong input by printing error massege.
 
